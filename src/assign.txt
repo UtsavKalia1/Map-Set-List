@@ -1,0 +1,22 @@
+• Employee:
+◦ String firstName
+◦ String lastName
+◦ int age
+◦ double salary
+◦ String company
+• Team:
+◦ String projectName
+◦ String features
+◦ String stackholders
+◦ double budget
+◦ Date deadline
+• Create 5 employees and 2 teams
+• add foloowing salaries in 5 employees : ◦ 50000 ◦ 60000 ◦ 40000 ◦ 35000 ◦ 65000
+• Create Hashmap with key Employee and value Team • print all records each in one line( you cannot use sout here)
+• print “John Smith is working under Mark in Digital wallet Team ”. for all records
+◦ here John smith is employee, Mark is its stackholder and Digital wallet is project name.
+• Remove employees below 50000 salary
+• print all records each in one line
+• get the set of employees which has salary of 50000 or higher.
+• Print that set
+• Convert
